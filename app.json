@@ -1,0 +1,12 @@
+{
+  "name": "infinityScroll",
+  "displayName": "infinityScroll",
+  "expo": {
+    "name": "infinityScroll",
+    "slug": "infinityScroll",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
